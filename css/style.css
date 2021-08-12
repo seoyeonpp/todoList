@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Cafe24SsurroundAir';
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24SsurroundAir.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Cafe24SsurroundAir';
+}
+
+* ul, * li {
+  list-style: none;
+}
+
+* #wrap {
+  margin: 10vw auto;
+  width: 50vw;
+  text-align: center;
+}
+
+* #wrap h1 {
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+* #wrap .input_zone {
+  margin-bottom: 30px;
+}
+
+* #wrap .input_zone input {
+  width: 200px;
+  height: 20px;
+  outline: none;
+}
+
+* #wrap #todoList li {
+  margin-bottom: 10px;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
